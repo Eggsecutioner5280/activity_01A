@@ -1,7 +1,9 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
+/*
+ * CS2050 - Computer Science II - Spring 2023
+ * Instructor: Thyago Mota
+ * Description: Activity 01 - Account
+ * Work Completed By Christopher Hammer
+ */
 
 import java.util.Date;
 
